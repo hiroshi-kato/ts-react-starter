@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:hiroshi-kato/ts-react-starter.git",
   "author": "hiroshi-kato <hiroshikato1208@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.6.2"
+  }
 }
